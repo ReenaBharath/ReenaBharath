@@ -20,7 +20,7 @@
 
 <h3 align="left">My Resume:</h3>
 <p align="left">
-  <a href="YOUR_PDF_URL_HERE" target="_blank">Download My Resume</a>
+  <a href="YOUR_PDF_URL_HERE" target="https://github.com/ReenaBharath/resume/blob/main/Reena%20Resume_2024.pdf">View My Resume</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
