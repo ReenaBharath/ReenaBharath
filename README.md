@@ -22,7 +22,7 @@
     <a href="https://github.com/ReenaBharath">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReenaBharath&layout=compact&theme=radical" alt="Reena Bharath's most used languages" />
     </a>
-</p>
+</p> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
