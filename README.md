@@ -15,6 +15,14 @@
 
 ---
 
+## 🏆 Achievements
+- **Quickdraw**: Closed an issue within 5 minutes
+- **Public Sponsor**: Sponsoring open-source contributors
+- **Pull Shark**: Merged multiple pull requests
+- **Galaxy Brain**: Accepted answers in GitHub Discussions
+
+---
+
 ## 🔧 Languages & Tools
 
 ### Programming Languages:
