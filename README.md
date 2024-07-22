@@ -143,7 +143,7 @@ Convert messages to and from Morse code using a binary tree data structure.
 <p align="left">
 <a href="https://linkedin.com/in/reena bharath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="reena bharath" height="30" width="40" /></a>
 <a href="https://instagram.com/15_reena_81" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="15_reena_81" height="30" width="40" /></a>
-<a href="https://www.flickr.com/people/201096688@N04/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/flickr.svg" alt="reena bharath" height="30" width="40" /></a>
+<a href="https://www.flickr.com/people/201096688@N04/" target="_blank"> <img align="center" src="https://www.iconpacks.net/icons/2/free-flickr-logo-icon-2435-thumb.png" alt="reena bharath" height="30" width="40" /></a>
 <a href="https://medium.com/@reenabharath1581" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@reenabharath1581" height="30" width="40" /></a>
 </p>
 
