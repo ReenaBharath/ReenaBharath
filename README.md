@@ -131,9 +131,9 @@ Convert messages to and from Morse code using a binary tree data structure.
 ## 📊 GitHub Stats
 
 
-![Reena's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ReenaBharath&show_icons=true&theme=radical)
+![Reena's GitHub stats](https://github-readme-stats.vercel.app/api?username=ReenaBharath&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ReenaBharath&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReenaBharath&theme=radical)
 
 
 ---
